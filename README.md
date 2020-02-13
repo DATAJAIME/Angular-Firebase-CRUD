@@ -1,5 +1,5 @@
 # Angular-Firebase-CRUD
-Este es un proyecto realizado por Jaime Galindo del Arco.
+Este es un proyecto realizado por Jaime Galindo del Arco como hito en CampusFP
 
 Este trabajo consiste en la realización de una pagina web con enrutamiento para movernos por las distintas partes y donde podemos hacer tanto operaciones en un CRUD no persistente como en una base de datos de Firebase enlazada al proyecto.
 
