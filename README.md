@@ -8,8 +8,3 @@ Todas las páginas se han creado con usando elementos tanto de Bootstrap como de
 La primera página consiste en llevar a cabo todas las operaciones CRUD en el array (obviamente no persistente), cada vez que se cierra la pagina, se reinicia y los datos no son guardados.
 
 La segunda, terca y cuarta página tienen la función de crear nuevos registros, actualizarlos y eliminarlos respectivamente. Además, en todas puedes consultar todos los datos de la base de datos de Firebase.
-
-Software Utilizado:
-- Angular CLI: 8.3.25
-- Firebase
-- Visual Studio Code 1.42.0
